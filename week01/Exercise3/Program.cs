@@ -30,7 +30,6 @@ public class HelloWorld
             {
                 Console.WriteLine("Congratulations! You guessed the right number.");
 
-                boolean PlayAgain = false;
             }
         }
     }
